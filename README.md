@@ -6,6 +6,8 @@
 
 </div>
 
+&nbsp;
+
 <h2 align="center">Feautures</h2>
 
 - A collection of three different minigames with three different difficulty levels for each
@@ -16,8 +18,6 @@
 &nbsp;
 
 <h2 align="center">Screenshots</h2>
-
-&nbsp;
 
 <div align="center">
 

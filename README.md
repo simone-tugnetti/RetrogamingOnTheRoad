@@ -1,7 +1,7 @@
 <div align="center">
  
  <img src="Screenshots/Main.jpg" width="280" height="200">
- <h1>RetrogamingOnTheRoad</h1>
+ <h1>Retrogaming on the Road</h1>
  <p>A Retrogaming app for Windows made with Unity Engine</p>
 
 </div>
